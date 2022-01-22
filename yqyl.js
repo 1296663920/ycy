@@ -2,7 +2,7 @@
 #极速版邀请有礼 
 极速版-百元生活费-赚金币-邀好友送现金 
 #自定义邀请码环境变量
-export yqm="你的邀请码"
+export yqm="lGV8bZgblnc%2FRcXvV7Ptag%3D%3D"
 
 [Script]
 cron "1 0,10,22 * * *" script-path=https://raw.githubusercontent.com/1296663920/ycy/main/yqyl.js,tag=极速版邀请有礼

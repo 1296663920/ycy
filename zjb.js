@@ -1,7 +1,7 @@
 /*
 #极速版赚金币锁韭菜锁一年
 ##入口为极速版-百元生活费-赚金币-邀请好友
-export InviterPin="CcPn%2BlfcvS7YdG7e%2FLHjzQ%3D%3D" ##你的邀请码，需要邀请链接上的邀请码
+export InviterPin="lGV8bZgblnc%2FRcXvV7Ptag%3D%3D" ##你的邀请码，需要邀请链接上的邀请码
 
 
 [task_local]
